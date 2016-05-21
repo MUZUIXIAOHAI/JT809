@@ -5062,7 +5062,7 @@ return 1;
 
 
 	}
-	//每一分钟发送一次心跳
+	//每一分钟发送一次心跳,CHANGBAO
 	int cb_send_test_link(int fd)
 	{
 		//"T01"int cb_encode_data(char * funword,char * ocm_code,int datalen,char * data,char * packetdata)
